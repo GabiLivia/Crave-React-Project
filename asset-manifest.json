@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Crave-React-Project/static/css/main.f0cf3fcd.chunk.css",
+    "main.js": "/Crave-React-Project/static/js/main.ad8926fc.chunk.js",
+    "main.js.map": "/Crave-React-Project/static/js/main.ad8926fc.chunk.js.map",
+    "runtime-main.js": "/Crave-React-Project/static/js/runtime-main.b49fb8db.js",
+    "runtime-main.js.map": "/Crave-React-Project/static/js/runtime-main.b49fb8db.js.map",
+    "static/js/2.c3554584.chunk.js": "/Crave-React-Project/static/js/2.c3554584.chunk.js",
+    "static/js/2.c3554584.chunk.js.map": "/Crave-React-Project/static/js/2.c3554584.chunk.js.map",
+    "index.html": "/Crave-React-Project/index.html",
+    "precache-manifest.8dc35b8a746bd22e3cb01fa550037d69.js": "/Crave-React-Project/precache-manifest.8dc35b8a746bd22e3cb01fa550037d69.js",
+    "service-worker.js": "/Crave-React-Project/service-worker.js",
+    "static/css/main.f0cf3fcd.chunk.css.map": "/Crave-React-Project/static/css/main.f0cf3fcd.chunk.css.map",
+    "static/js/2.c3554584.chunk.js.LICENSE.txt": "/Crave-React-Project/static/js/2.c3554584.chunk.js.LICENSE.txt",
+    "static/media/cheese.png": "/Crave-React-Project/static/media/cheese.19ea9f7b.png",
+    "static/media/App.scss": "/Crave-React-Project/static/media/circles.5f37d5a1.png",
+    "static/media/compressed-image.png": "/Crave-React-Project/static/media/compressed-image.4cdfca78.png",
+    "static/media/paprika.png": "/Crave-React-Project/static/media/paprika.f6a3284a.png",
+    "static/media/sourcream.png": "/Crave-React-Project/static/media/sourcream.71efbdde.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b49fb8db.js",
+    "static/js/2.c3554584.chunk.js",
+    "static/css/main.f0cf3fcd.chunk.css",
+    "static/js/main.ad8926fc.chunk.js"
+  ]
+}
