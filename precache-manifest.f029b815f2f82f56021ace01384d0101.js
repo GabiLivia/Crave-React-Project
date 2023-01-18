@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1d4ae9c7831764e63547c5218589eb4",
+    "revision": "edea4fb7dc0db161d1f5992d81242612",
     "url": "/Crave-React-Project/index.html"
   },
   {
-    "revision": "ff26738c7ce34fe1158e",
+    "revision": "5c94683b38373f9d2fc9",
     "url": "/Crave-React-Project/static/css/main.f0cf3fcd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crave-React-Project/static/js/2.c3554584.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff26738c7ce34fe1158e",
-    "url": "/Crave-React-Project/static/js/main.ad8926fc.chunk.js"
+    "revision": "5c94683b38373f9d2fc9",
+    "url": "/Crave-React-Project/static/js/main.cf15fe9e.chunk.js"
   },
   {
     "revision": "d93d0403e8d4f881914a",
